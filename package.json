@@ -1,0 +1,20 @@
+{
+  "name": "kneaver-stdjs",
+  "version": "2.0.70",
+  "description": "Base scripts for client or node javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kneaver/kneaver-stdjs.git"
+  },
+  "author": "Bruno Winck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kneaver/kneaver-stdjs/issues"
+  },
+  "homepage": "https://github.com/Kneaver/kneaver-stdjs#readme",
+  "devDependencies": {}
+}
